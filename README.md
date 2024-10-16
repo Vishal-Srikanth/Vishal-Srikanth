@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal-Srikanth
 - 👀 I’m interested in Data 
-- 🌱 I’m currently learning How to code
+- 🌱 I’m currently learning how to make chatbots
 - 💞️ I’m looking to collaborate on Data Science Projects using NLTK, Matplot, Numpy, Pandas, Scikit-learn and SNS. 
 - 📫 How to reach me: Github messages.
 
