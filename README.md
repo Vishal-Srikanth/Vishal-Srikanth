@@ -21,12 +21,14 @@ I am a recent Data Science honours graduate from Wilfrid Laurier University spec
 * **TennisGOAT** ([Tableau Dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/WhoistheGOATofTennis/02KPICommandCenter2))
   * *Tech:* Python, Jupyter Notebook, Custom Statistical Formulas
   * Engineered statistical data models to determine the greatest tennis player of all time using custom metrics measuring Surface Adaptability, Clutch Index, and Dominance Ratio across Federer, Nadal, and Djokovic.
-* **Voices of Walmart** ([GitHub Repo](https://github.com/smokytrails/Voices-of-Walmart))
-  * *Tech:* Python, NLTK, Scikit-learn, Cross-Validation
-  * Developed a machine learning pipeline utilizing classification and EDA to evaluate 13 years of unstructured longitudinal employee sentiment data.
+  
 * **Region of Waterloo Road Safety** ([Tableau Dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/WaterlooRoadSafety/OverviewofROW2))
   * *Tech:* Python, Tableau, Predictive Analytics
   * Architected a real-time predictive analytics system integrating historical patterns and live environmental data streams to optimize proactive emergency planning.
+    
+* **Voices of Walmart** ([GitHub Repo](https://github.com/smokytrails/Voices-of-Walmart))
+  * *Tech:* Python, NLTK, Scikit-learn, Cross-Validation
+  * Developed a machine learning pipeline utilizing classification and EDA to evaluate 13 years of unstructured longitudinal employee sentiment data.
 
 ---
 
