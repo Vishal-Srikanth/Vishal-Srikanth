@@ -36,14 +36,16 @@ I am a recent Data Science honours graduate from Wilfrid Laurier University spec
 
 **Wilfrid Laurier University** | *Sep 2022 – May 2026*
 * **Degree:** Honours Bachelor of Science – Data Science (Big Data Concentration)
+  
 * **Leadership:** President, Laurier Analytics Society (Directed a 20-person executive team, scaled enterprise partnerships with Google & Sun Life, and led technical enablement workshops).
 
 ---
 
 ### Certifications
 
-* **Google & AWS:** Google Advanced Data Analytics Professional, AWS Cloud Practitioner Essentials, AWS AI Development Life Cycle
-* **Databricks & PM:** AI Agent Fundamentals, Generative AI Fundamentals, Data Governance Fundamentals, Technical Product Management
+* **Google:** Google Advanced Data Analytics Professional
+* **AWS:** AWS Cloud Practitioner Essentials, AWS AI Development Life Cycle
+* **Databricks Accredited:** AI Agent Fundamentals, Generative AI Fundamentals, Data Governance Fundamentals, Technical Product Management
 * **Product & Program Management:** Technical Product Management, Strategy Analysis, Program Management
 
 ---
