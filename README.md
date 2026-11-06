@@ -18,7 +18,7 @@ I am a recent Data Science honours graduate from Wilfrid Laurier University spec
 
 ### Featured Projects
 
-* **TennisGOAT** ([Tableau Dashboard]([https://github.com/Vishal-Srikanth/TennisGOAT](https://public.tableau.com/app/profile/vishal.srikanth/viz/WhoistheGOATofTennis/02KPICommandCenter2)))
+* **TennisGOAT** ([Tableau Dashboard]([https://github.com/Vishal-Srikanth/TennisGOAT](https://public.tableau.com/app/profile/vishal.srikanth/viz/WhoistheGOATofTennis/02KPICommandCenter2))
   * *Tech:* Python, Jupyter Notebook, Custom Statistical Formulas
   * Engineered statistical data models to determine the greatest tennis player of all time using custom metrics measuring Surface Adaptability, Clutch Index, and Dominance Ratio across Federer, Nadal, and Djokovic.
 * **Voices of Walmart** ([GitHub Repo](https://github.com/smokytrails/Voices-of-Walmart))
