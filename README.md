@@ -26,7 +26,7 @@ I am a recent Data Science honours graduate from Wilfrid Laurier University spec
   * *Tech:* Python, Tableau, Predictive Analytics
   * Architected a real-time predictive analytics system integrating historical patterns and live environmental data streams to optimize proactive emergency planning.
 
-* **Let's Land This!: Deep Q-Learning Lunar Lander** ([GitHub Repo]([https://public.tableau.com/app/profile/vishal.srikanth/viz/WaterlooRoadSafety/OverviewofROW2](https://github.com/Vishal-Srikanth/Lets-Land-This_Deep-Q-Learning-Lunar-Lander)))
+* **Let's Land This!: Deep Q-Learning Lunar Lander** ([GitHub Repo](https://github.com/Vishal-Srikanth/Lets-Land-This_Deep-Q-Learning-Lunar-Lander))
   * *Tech*: Python, PyTorch, Reinforcement Learning, Gymnasium
   * Engineered an autonomous Deep Q-Network (DQN) agent to master simulated lunar descents, integrating experience replay, target networks, and disk-optimized checkpointing alongside multi-dimensional visual analytics..
     
