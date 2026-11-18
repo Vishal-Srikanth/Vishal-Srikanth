@@ -18,6 +18,8 @@ I am a recent Data Science honours graduate from Wilfrid Laurier University spec
 
 ### Featured Projects
 
+https://github.com/Vishal-Srikanth/MapKW 
+
 * **TennisGOAT** ([Tableau Dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/WhoistheGOATofTennis/02KPICommandCenter2))
   * *Tech:* Python, Jupyter Notebook, Custom Statistical Formulas
   * Engineered statistical data models to determine the greatest tennis player of all time using custom metrics measuring Surface Adaptability, Clutch Index, and Dominance Ratio across Federer, Nadal, and Djokovic.
@@ -25,6 +27,10 @@ I am a recent Data Science honours graduate from Wilfrid Laurier University spec
 * **Region of Waterloo Road Safety** ([Tableau Dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/WaterlooRoadSafety/OverviewofROW2))
   * *Tech:* Python, Tableau, Predictive Analytics
   * Architected a real-time predictive analytics system integrating historical patterns and live environmental data streams to optimize proactive emergency planning.
+
+* **MapKW** ([GitHub Repo](https://github.com/Vishal-Srikanth/MapKW)), ([Tableau Dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/MapKW/01InteractiveMap))
+  * *Tech:* Python, Jupyter Notebook, NetworkX, OSMnx, Tableau, Graph Theory, Search Algorithms
+  * Developed a graph-based urban routing system leveraging Dijkstra, A*, Bidirectional Dijkstra, BFS and Yen’s algorithms to optimize travel paths across Kitchener–Waterloo, visualizing 8,616 precomputed routes through an interactive Tableau dashboard..
 
 * **Let's Land This!: Deep Q-Learning Lunar Lander** ([GitHub Repo](https://github.com/Vishal-Srikanth/Lets-Land-This_Deep-Q-Learning-Lunar-Lander))
   * *Tech*: Python, PyTorch, Reinforcement Learning, Gymnasium
