@@ -55,6 +55,7 @@ I am a recent Data Science honours graduate from Wilfrid Laurier University spec
 * **AWS:** AWS Cloud Practitioner Essentials, AWS AI Development Life Cycle
 * **Databricks Accredited:** AI Agent Fundamentals, Generative AI Fundamentals, Data Governance Fundamentals, Technical Product Management
 * **Product & Program Management:** Technical Product Management, Strategy Analysis, Program Management
+* **Forage:** BCGx Gen-AI Consulting Job Simulation (Built a Rule based Chatbot)
 
 ---
 
