@@ -6,6 +6,14 @@ I am a recent Data Science honours graduate from Wilfrid Laurier University spec
 
 ---
 
+### Want to skip the reading? Listen to my introduction!
+
+Get to know me in just 94 seconds!
+
+https://github.com/user-attachments/assets/de4c295c-cdc4-4c18-9d1c-390bbf5f9b52
+
+
+
 ### Technical Skills
 
 * **Languages & Automation:** Python, SQL, R, Google Apps Script, Microsoft Power Automate, Jira, Confluence
