@@ -12,7 +12,7 @@ Get to know me in just 90 seconds!
 
 https://github.com/user-attachments/assets/de4c295c-cdc4-4c18-9d1c-390bbf5f9b52
 
-###### [^Nov 2026 update^]
+###### [Nov 2026 update]^
 
 ### Technical Skills
 
