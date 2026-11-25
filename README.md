@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/de4c295c-cdc4-4c18-9d1c-390bbf5f9b52
 ### Certifications
 
 * **Google:** Google Advanced Data Analytics Professional ([View Certificate](https://www.coursera.org/account/accomplishments/specialization/XPMTJVZW4SSS))
-* **AWS:** AWS Cloud Practitioner Essentials, AWS AI Development Life Cycle 
+* **AWS:** AWS Cloud Practitioner Essentials, AWS AI Development Life Cycle ([View Badge](https://www.credly.com/badges/b6b64c21-8975-49d5-96f0-920978994931))
 * **Databricks Accredited:** AI Agent Fundamentals, Generative AI Fundamentals, Data Governance Fundamentals, Technical Product Management
 * **Product & Program Management:** Technical Product Management, Strategy Analysis, Program Management
 * **Forage:** BCGx Gen-AI Consulting Job Simulation (Built a Rule-Based Chatbot) ([GitHub Repo](https://github.com/Vishal-Srikanth/BCGx-Gen-AI-Chatbot-Forage-Job-Simulation))
