@@ -12,6 +12,14 @@ I am a recent Data Science honours graduate from Wilfrid Laurier University spec
 
 https://github.com/user-attachments/assets/de4c295c-cdc4-4c18-9d1c-390bbf5f9b52
 
+<div align="center">
+
+[![Play Audio Introduction](https://img.shields.io/badge/Play_Audio_Introduction-Amazon_CloudFront-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://d3hdbo4wynu8c.cloudfront.net/intro.mp3)
+
+*Delivered directly through Amazon CloudFront over HTTPS.*
+
+</div>
+
 ###### [Nov 2026 update]^
 ---
 
